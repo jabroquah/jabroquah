@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Abroquah</h1>
 <h3 align="center"> Software Engineer </h3>
 
-<br><br>
+<br>
 <!-- :sassy_man:  About me -->
 - :student: I am currently at ALX studying software engineering.
 - :technologist: I love using Software as a solution for every `Problem`
