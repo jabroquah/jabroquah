@@ -6,7 +6,7 @@
 <h3 align="center"> Software Engineer </h3>
 
 <br><br>
-<!-- :sassy_man:  About me -->
+## :sassy_man:  About me 
 - :student: I am currently at ALX studying software engineering.
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m looking to collaborate with any **Open - Source software engineering projects**
