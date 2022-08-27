@@ -8,7 +8,7 @@
 <br><br>
 <!-- :sassy_man:  About me -->
 - :student: I am currently at ALX studying software engineering.
-- :technologist: I love using Software as a solution for every `Problem``
+- :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m looking to collaborate with any **Open - Source software engineering projects**
 - :nerd_face: Always `learning new things and doing HARD things`
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
