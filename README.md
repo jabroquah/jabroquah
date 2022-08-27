@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/jabroquah/main/blob/main/animesher.com_computer-gif-whos-there-49651.gif" alt="coding" /></p>
+<p align="center"><img align="center" src="https://github.com/jabroquah/main/blob/main/animesher.com_computer-gif-whos-there-49651.gif" alt="coding" /></p>
 <br>
 
 <hr>
@@ -11,7 +11,7 @@
 - :technologist: I love using Software as a solution for every `Problem``
 - :student: I’m looking to collaborate with any **Open - Source software engineering projects**
 - :nerd_face: Always `learning new things and doing HARD things`
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
 <br>
 
