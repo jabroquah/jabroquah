@@ -3,7 +3,7 @@
 
 <hr>
 <h1 align="center">Hi 👋, I'm Joseph Abroquah</h1>
-<h3 align="center"> Software Engineer </h3>
+<h2 align="center"> Software Engineer </h2>
 
 <br><br>
 ## :sassy_man:  About me 
