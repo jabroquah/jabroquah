@@ -3,7 +3,8 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://github.com/jabroquah/main/blob/main/wave.gif" width="45px">, I'm Joseph Abroquah</h1>
-<h2 align="center"> Software Engineer </h2>
+<h2 align="center">A Software Engineer</h2>
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjoseph_abroquah
 
 <br><br>
 ## :sassy_man:  About me 
