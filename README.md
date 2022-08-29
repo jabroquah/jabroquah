@@ -28,7 +28,7 @@
 ## :mailbox_with_no_mail: Connect with me
 <p align="left">
 	<a href="mailto:abroquahjoseph@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://twitter.com/joseph_abroquah"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://twitter.com/joseph_abroquah"><img src="https://img.shields.io/badge/twitter-%23181717.svg?style=plastic&logo=twitter&logoColor=blue" alt="Twitter"/></a>
 	<a href="https://github.com/jabroquah"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/joseph-abroquah-71834a1b6/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
   
