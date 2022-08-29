@@ -2,7 +2,7 @@
 <br>
 
 <hr>
-<h1 align="center">Hi <img src="https://github.com/jabroquah/main/blob/main/hi.gif" width="30px">, I'm Joseph Abroquah</h1>
+<h1 align="center">Hi <img src="https://github.com/jabroquah/main/blob/main/wave.gif" width="30px">, I'm Joseph Abroquah</h1>
 <h2 align="center"> Software Engineer </h2>
 
 <br><br>
