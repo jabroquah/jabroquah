@@ -6,7 +6,7 @@
 <br>
 
 ## :man:  About me 
-- :school: I am currently at ALX studying software engineering.
+- :school: I am studying software engineering at ALX .
 - :man_technologist: I love using software as a `solution` for every `problem`
 - :student: I’m looking to collaborate with any **Open - Source software engineering projects**
 - :nerd_face: Always `learning new things and doing HARD things`
@@ -35,4 +35,4 @@
 -----
 Credits: [Joseph Abroquah](https://github.com/jabroquah)
 
-Last Edited on: 01/09/2022
+Last Edited on: 20/09/2022
